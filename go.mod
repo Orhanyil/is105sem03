@@ -1,4 +1,4 @@
-module github.com/Orhanyil/is105sem03.git
+module github.com/Orhanyil/is105sem03
 
 go 1.20
 
